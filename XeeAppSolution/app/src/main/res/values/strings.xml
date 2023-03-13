@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">XeeAppSolution</string>
+    <!--    <string name="default_web_client_id" />-->
+    <string name="sign_in_with_mobile">Sign In with Mobile</string>
+    <string name="sign_in_with_google">Sign In with Google</string>
+    <string name="sign_in">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">login</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="xeeapp_solution">XeeApp Solution</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="every_day_15_min">Every Day 15 min</string>
+    <string name="days_60">Days 60</string>
+    <string name="before_age_8">Before Age 8</string>
+    <string name="dr_vinita_singh">Dr.Vinita Singh</string>
+    <string name="dr_ashu_sharma">Dr.Ashu Sharma</string>
+    <string name="dr_mukesh_kumar">Dr.Mukesh Kumar</string>
+    <string name="dr_uday_pratap">Dr.Uday Pratap</string>
+    <string name="dr_manish_jain">Dr. Manish Jain</string>
+    <string name="dr_afeefa_khan">Dr.Afeefa Khan</string>
+    <string name="_8373225699">8373225699</string>
+    <string name="_9045347726">9045347726</string>
+    <string name="mbbs">MBBS</string>
+    <string name="_9897365748">9897365748</string>
+    <string name="_9359932567">9359932567</string>
+    <string name="_9540683245">9540683245</string>
+    <string name="_8954000105">8954000105</string>
+    <string name="_9410445199">9410445199</string>
+    <string name="dr_harvinder_singh">Dr.Harvinder Singh</string>
+    <string name="videos">Videos</string>
+    <string name="play">Play</string>
+</resources>

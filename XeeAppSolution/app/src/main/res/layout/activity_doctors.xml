@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Doctors">
+
+     <com.airbnb.lottie.LottieAnimationView
+    android:id="@+id/hospital"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    app:lottie_autoPlay="true"
+    app:lottie_loop="true"
+    app:lottie_rawRes="@raw/dhadkan" />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/hospital">
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#4A3700B3"
+            android:id="@+id/recycler">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </ScrollView>
+
+</RelativeLayout>

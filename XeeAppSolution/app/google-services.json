@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599698791590",
+    "project_id": "xeeappsolution",
+    "storage_bucket": "xeeappsolution.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599698791590:android:2244e38654a983d6bc6867",
+        "android_client_info": {
+          "package_name": "com.example.xeeappsolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599698791590-lsmh1li6joad3ejm42tth7no4ftugsoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq44Uiak4fQMalGkiwHBj1N5nBSMmMDj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599698791590-lsmh1li6joad3ejm42tth7no4ftugsoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
